@@ -1,0 +1,4 @@
+mobile:
+    oneplus 9 rt
+    samsang s22
+    iphone 11 pro
