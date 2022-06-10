@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 formal dress
 formal shoes
+=======
+tv
+ac
+mob
+watch
+>>>>>>> e5d004b30b04fcb3eff8640ea615db38af0a8435
